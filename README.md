@@ -3,64 +3,66 @@
         <img src="https://i.ibb.co/YZ4D3GC/ezgif-2-67a710e8c501.gif" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TAURUS_V3" src="https://img.shields.io/badge/TAURUS_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-/taurus_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/muhammed-usrbot">MUHAMMED</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+<div align="center">
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/taurus-user-bot/TAURUS_V3&title=TAURUS_V3%20VIEWS)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/TAURUSV3-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/taurus-user-bot/TAURUS_V3) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/taurus-user-bot/TAURUS_V3
+$ cd TAURUS_V3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node Taurus.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/taurus-user-bot/TAURUS_V3
+$ cd TAURUS_V3
 $ npm i
-$ node maalutty.js
+$ node Taurus.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
+  <a href="httsp://github.com/taurus-user-bot/TAURUS_V3">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/taurus-user-bot/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/taurus-user-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/taurus-user-bot/TAURUS_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/taurus-user-bot/TAURUS_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/taurus-user-bot/TAURUS_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/taurus-user-bot/TAURUS_V3?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -100,9 +102,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![nijin-husni](https://github.com/nijin-husni.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
+  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![taurus-user-bot](https://github.com/taurus-user-bot.png?size=100)](https://github.com/muhammed-usrbot) | [![txt](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [luciferking1](https://github.com/luciferking1) 
+[muhammed-usrbot](https://github.com/muhammed-usrbot) | [taurus-user-bot](https://github.com/taurus-user-bot) | [taurus-x-toxide](https://github.com/taurus-x-toxide) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
   </div>
     
