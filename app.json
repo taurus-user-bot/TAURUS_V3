@@ -126,8 +126,8 @@
             "required": true,
             "value": "^[.!;]"
         },
-        "TALKING_MAALUTTY": {
-            "description": "Turn your account into a talking maalutty!",
+        "TALKING_TAURUS": {
+            "description": "Turn your account into a talking taurus!",
             "required": true,
             "value": "true"
         },
