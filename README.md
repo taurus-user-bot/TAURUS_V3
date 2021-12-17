@@ -1,4 +1,9 @@
- <img src="https://i.ibb.co/MPJ93X9/20211209-205206.png" alt="google-font" border="0"></a>
+<div align="center">
+
+```
+WELCOME TO TAURUS V3
+```
+
 <div align="center">
         <img src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" alt="GIF" width="250" height="250"/>
 </p>
@@ -88,7 +93,7 @@ Click WA logo to Join public bot Group👇
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/taurus.efx)
 
 
 ### ⚠️ Warning! 
